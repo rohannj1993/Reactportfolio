@@ -37,4 +37,17 @@
   };
 }
 
+.message{
+  width:300px;
+  height: 300px
+}
 
+.contactform{
+  margin-left: -150px;
+}
+.contactname{
+  margin-left: -150px;
+}
+.contactemail{
+  margin-left: -200px;
+}

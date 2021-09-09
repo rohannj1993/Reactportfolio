@@ -4,28 +4,38 @@ function About() {
         <div>
         <h1>Contact Me</h1>
       <p> My Contact Information</p>
+      <div className="contactform">
       <form>
+        <div className="contactname">
   <label>
     Name:
-    <input type="text" name="name" />
+    
   </label>
-  <input type="submit" value="Submit" />
-</form>
-<form>
+  <input type="text" name="name" className="name" />
+
+</div>
+
+<br/>
+<div className="contactemail">
   <label>
     Email Address:
-    <input type="text" name="name" />
+    <input type="text" name="name" className="email" />
   </label>
-  <input type="submit" value="Submit" />
-</form>
-<form>
+ 
+
+
+</div>
+<br/>
   <label>
     Message:
-    <input type="text" name="name" />
+    <input type="text" name="name" className="message" />
   </label>
-  <input type="submit" value="Submit" />
+
 </form>
+</div>
+<input type="submit" value="Submit" />
       </div>
+      
     )
 }
 export default About
