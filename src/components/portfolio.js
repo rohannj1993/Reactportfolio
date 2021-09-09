@@ -1,6 +1,10 @@
 import React from "react"
 import Beat from "./Assets/Beat-It.png"
 import Brewery from "./Assets/BreweryDog.png"
+import Planner from "./Assets/DayPlanner.png"
+import Tracker from "./Assets/EmployeeTracker.png"
+import NoSql from "./Assets/NoSql.png"
+import Password from "./Assets/PasswordGenerator.png"
 import {Row} from "reactstrap"
 function About() {
     return (
@@ -8,8 +12,16 @@ function About() {
         <h1>My Portfolio</h1>
       <p> Portfolio projects</p>
       <Row>
-    <a href="https://beatit-music-app.herokuapp.com/"><img src={Beat}alt="music" className="musiclogo"/> </a>  
-      <img src={Brewery}alt="Beer" className="beerlogo"/>
+    <a href="https://beatit-music-app.herokuapp.com/"><img src={Beat}alt="music" className="logo"/> </a>  
+     <a href="https://jconnro.github.io/brewery-dog/"><img src={Brewery}alt="Beer" className="logo"/></a>
+      </Row>
+      <Row>
+     <a href="https://rohannj1993.github.io/DayPlanner//"><img src={Planner}alt="Day Planner" className="logo"/> </a>  
+     <a href="https://drive.google.com/file/d/17tvGUahfSxmgcSQcK5L6MFbODpAtREEb/view"> <img src={Tracker}alt="Employee" className="logo"/> </a> 
+      </Row>
+      <Row>
+      <a href="https://drive.google.com/file/d/1ssUssWbApUVfINISk8DhgObUzfuNbFDK/view"><img src={NoSql}alt="NoSql" className="logo"/> </a>  
+     <a href="https://rohannj1993.github.io/rohanspasswordgenerator/"> <img src={Password}alt="Pass Generator" className="logo"/> </a> 
       </Row>
       </div>
     )
