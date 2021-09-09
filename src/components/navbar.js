@@ -74,6 +74,7 @@ class App extends Component {
                 <Route path="/Resume" component={Resume} />
               </div>
         </Router>
+        
     );
   }
 }

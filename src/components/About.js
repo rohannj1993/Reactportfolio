@@ -5,7 +5,7 @@ function About() {
         <div>
         <h1>About Me</h1>
         <img src ={me} alt="me"/>
-      <p> Currently a student at Rutgers Coding Bootcamp, trying to use acquired skills to find a entry level position.</p>
+      <p> Currently a student at Rutgers Coding Bootcamp, looking to obtain a entry level Web Development position.</p>
       </div>
     )
 }
