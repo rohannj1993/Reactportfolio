@@ -11,7 +11,7 @@ function About() {
     Name:
     
   </label>
-  <input type="text" name="name" className="name" />
+  <input type="text" name="name" className="name" required />
 
 </div>
 
@@ -19,7 +19,7 @@ function About() {
 <div className="contactemail">
   <label>
     Email Address:
-    <input type="text" name="name" className="email" />
+    <input type="text" name="name" className="email" required />
   </label>
  
 
@@ -28,7 +28,7 @@ function About() {
 <br/>
   <label>
     Message:
-    <input type="text" name="name" className="message" />
+    <input type="text" name="name" className="message" required />
   </label>
 
 </form>

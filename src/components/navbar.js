@@ -49,21 +49,21 @@ class App extends Component {
               <h1>Rohan Nair</h1>
                 <nav>
                   <ul>
-                    <li>
+                    <p>
                       <Link to="/">Home</Link>
-                    </li>
-                    <li>
+                    </p>
+                    <p>
                       <Link to="/about">About</Link>
-                    </li>
-                    <li>
+                    </p>
+                    <p>
                       <Link to="/portfolio">Portfolio</Link>
-                    </li>
-                    <li>
+                    </p>
+                    <p>
                       <Link to="/Contact">Contact Me</Link>
-                    </li>
-                    <li>
+                    </p>
+                    <p>
                       <Link to="/Resume"> Resume</Link>
-                    </li>
+                    </p>
                   </ul>
                 </nav>
 
