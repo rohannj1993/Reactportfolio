@@ -18,7 +18,7 @@ function About() {
 <br/>
 <div className="contactemail">
   <label>
-    Email Address:
+    Email Address: 
     <input type="text" name="name" className="email" required />
   </label>
  
