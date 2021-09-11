@@ -3,7 +3,7 @@ function About() {
     return (
         <div>
         <h1>Contact Me</h1>
-      <p> My Contact Information</p>
+      <p> Please enter your Contact Information</p>
       <div className="contactform">
       <form>
         <div className="contactname">

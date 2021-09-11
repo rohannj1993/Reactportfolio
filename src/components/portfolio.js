@@ -10,7 +10,7 @@ function About() {
     return (
         <div>
         <h1>My Portfolio</h1>
-      <p> Portfolio projects</p>
+      <p> </p>
       <Row>
     <a href="https://beatit-music-app.herokuapp.com/"><img src={Beat}alt="music" className="logo"/> </a>  
      <a href="https://jconnro.github.io/brewery-dog/"><img src={Brewery}alt="Beer" className="logo"/></a>
