@@ -56,5 +56,10 @@
 .logo{
   height: 300px;
   width: 300px;
-  padding-right: 20px;
+  padding-right: 80px;
+}
+
+#linkedin{
+  height: 80px;
+  width:80px
 }
