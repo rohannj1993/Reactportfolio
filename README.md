@@ -80,13 +80,11 @@ This application does not need to be installed.
 ## Screenshots
 I also included screenshots of the application in various stages of use.
 
-![screenshot](./src/components/Assets/Screenshot168.png)
-![screenshot](./src/components/Assets/Screenshot169.png)
-![screenshot](./src/components/Assets/Screenshot170.png)
-![screenshot](./src/components/Assets/Screenshot171.png)
-![screenshot](./src/components/Assets/Screenshot172.png)
-![screenshot](./src/components/Assets/Screenshot173.png)
-![screenshot](./src/components/Assets/Screenshot174.png)
+![screenshot](./src/components/Assets/Screenshot188.png)
+![screenshot](./src/components/Assets/Screenshot189.png)
+![screenshot](./src/components/Assets/Screenshot190.png)
+![screenshot](./src/components/Assets/Screenshot191.png)
+![screenshot](./src/components/Assets/Screenshot192.png)
 
 
 ## Needs Improvement
