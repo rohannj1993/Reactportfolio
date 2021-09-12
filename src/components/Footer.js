@@ -11,7 +11,7 @@ function Footer(){
     </a>
     <a href='https://github.com/rohannj1993'>
 
- <img src ={gitlogo} alt="github logo"/>
+ <img src ={gitlogo} id='github' alt="github logo"/>
     </a>
     
 </p>
