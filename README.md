@@ -88,4 +88,4 @@ I also included screenshots of the application in various stages of use.
 
 
 ## Needs Improvement
-Need to work on styling on portfolio
+Need to work on applying more CSS styling to make portfolio more visually appealing
