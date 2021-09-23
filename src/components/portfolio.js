@@ -4,7 +4,7 @@ import Brewery from "./Assets/BreweryDog.png"
 import Planner from "./Assets/DayPlanner.png"
 import Tracker from "./Assets/EmployeeTracker.png"
 import NoSql from "./Assets/NoSql.png"
-import Password from "./Assets/PasswordGenerator.png"
+import Component from "./Assets/Component.png"
 import {Row} from "reactstrap"
 function About() {
     return (
@@ -21,7 +21,7 @@ function About() {
       </Row>
       <Row>
       <a href="https://drive.google.com/file/d/1ssUssWbApUVfINISk8DhgObUzfuNbFDK/view"><img src={NoSql}alt="NoSql" className="logo"/> </a>  
-     <a href="https://rohannj1993.github.io/rohanspasswordgenerator/"> <img src={Password}alt="Pass Generator" className="logo"/> </a> 
+     <a href="https://component-react.herokuapp.com/"> <img src={Component}alt="Component" className="logo"/> </a> 
       </Row>
       </div>
     )

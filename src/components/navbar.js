@@ -1,10 +1,11 @@
 import React, { Component } from 'react';
 import { BrowserRouter as Router, Route, Link } from "react-router-dom";
-import About from "./About"
+
 import Portfolio from "./portfolio"
 import Contact from "./Contact"
 import Resume from "./Resume"
-const Home = () => {
+import Home from "./Home"
+const home = () => {
   return (
     <div>
        <h1>Home</h1>
@@ -12,13 +13,7 @@ const Home = () => {
   );
 };
 
-const about = () => {
-  return (
-    <div>
-      <p>About</p>
-    </div>
-  );
-};
+
 const portfolio = () => {
     return (
       <div>
@@ -52,9 +47,7 @@ class App extends Component {
                     <p>
                       <Link to="/">Home</Link>
                     </p>
-                    <p>
-                      <Link to="/about">About</Link>
-                    </p>
+
                     <p>
                       <Link to="/portfolio">Portfolio</Link>
                     </p>
@@ -68,7 +61,6 @@ class App extends Component {
                 </nav>
 
                 <Route path="/" exact component={Home} />
-                <Route path="/about" component={About} />
                 <Route path="/portfolio" component={Portfolio} />
                 <Route path="/Contact" component={Contact} />
                 <Route path="/Resume" component={Resume} />

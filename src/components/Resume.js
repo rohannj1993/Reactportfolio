@@ -1,5 +1,5 @@
 import React from "react"
-function About() {
+function Resume() {
     return (
         <div>
         <h1>Resume</h1>
@@ -18,4 +18,4 @@ function About() {
        
     )
 }
-export default About
+export default Resume
