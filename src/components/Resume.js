@@ -3,7 +3,7 @@ function Resume() {
     return (
         <div>
         <h1>Resume</h1>
-    <a href="https://docs.google.com/document/d/1WZE1Pz1hepLwN6yCh_FnBhyt51rSuzbC/edit?usp=sharing&ouid=116763441352524619041&rtpof=true&sd=true"><p>Download my Resume</p></a>
+    <a href="https://docs.google.com/document/d/1S0NUX0PDra97EAXzkiV6aHMBEB30WRsrkvnJk3WEYuQ/edit?usp=sharing"><p>Download my Resume</p></a>
       <h2>Front-end profiencies</h2>
       <p> HTML</p>
       <p> CSS</p>
