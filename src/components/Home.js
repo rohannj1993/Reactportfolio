@@ -5,7 +5,7 @@ return(
   <div>
    <h2>Rohan Nair</h2>
    <h2>About Me </h2>
-   <img src ={me} alt="me"/>
+   <img class="headshot"src ={me} alt="me"/>
   
    <p> 
    Currently a student at Rutgers Coding Bootcamp, looking to obtain a entry level Web Development position.

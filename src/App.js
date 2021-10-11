@@ -3,13 +3,13 @@ import './App.css';
 import Nav from "./components/navbar"
 import Footer from "./components/Footer"
 import Home from "./components/Home"
-import About from "./components/portfolio"
+import Portfolio from "./components/portfolio"
 import Contact from './components/Contact';
 import Resume from "./components/Resume"
 function App() {
   return (
     <div className="App">
-      <Nav/>
+      {/* <Nav/> */}
       {/* <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         
@@ -23,7 +23,7 @@ function App() {
         </a>
       </header> */}
       <Home/>
-      <About/>
+      <Portfolio/>
       <Contact/>
       <Resume/>
    

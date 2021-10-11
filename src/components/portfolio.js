@@ -6,7 +6,7 @@ import Tracker from "./Assets/EmployeeTracker.png"
 import NoSql from "./Assets/NoSql.png"
 import Component from "./Assets/Component.png"
 import {Row} from "reactstrap"
-function About() {
+function Portfolio() {
     return (
         <div>
         <h1>My Portfolio</h1>
@@ -26,4 +26,4 @@ function About() {
       </div>
     )
 }
-export default About
+export default Portfolio

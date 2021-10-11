@@ -78,3 +78,8 @@
     z-index: 999;
     margin-right: 400px;
 }
+
+.headshot{
+  height: 400px;
+  width: 300px;
+}
