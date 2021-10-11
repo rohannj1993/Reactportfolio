@@ -33,7 +33,7 @@ function Contact() {
 
 </form>
 </div>
-<input type="submit" value="Submit" />
+<button class="submit-btn"type="submit" value="Submit">Submit</button>
       </div>
       
     )
