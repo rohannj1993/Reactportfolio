@@ -68,7 +68,7 @@ export default function Contact () {
         <div>
             <Container className='contactcontain'>
 <Row>
-    <img className='officeimg' src="https://www.brunner-group.com/CelumDownloads/85823_tm_stage_Homeoffice_1920x1080_M.jpg" alt='office'/>
+    {/* <img className='officeimg' src="https://www.brunner-group.com/CelumDownloads/85823_tm_stage_Homeoffice_1920x1080_M.jpg" alt='office'/> */}
             <h1 className="contactme please">Contact Me</h1>
             < div className="container">
                 <form className="forgot"onSubmit={sendEmail}>
