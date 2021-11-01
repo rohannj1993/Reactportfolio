@@ -1,6 +1,6 @@
-import logo from './logo.svg';
+// import logo from './logo.svg';
 import './App.css';
-import Nav from "./components/navbar"
+// import Nav from "./components/navbar"
 import Footer from "./components/Footer"
 import Home from "./components/Home"
 import Portfolio from "./components/portfolio"

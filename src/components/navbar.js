@@ -5,37 +5,37 @@ import Portfolio from "./portfolio"
 import Contact from "./Contact"
 import Resume from "./Resume"
 import Home from "./Home"
-const home = () => {
-  return (
-    <div>
-       <h1>Home</h1>
-    </div>
-  );
-};
+// const home = () => {
+//   return (
+//     <div>
+//        <h1>Home</h1>
+//     </div>
+//   );
+// };
 
 
-const portfolio = () => {
-    return (
-      <div>
-        <p>Portfolio</p>
-      </div>
-    );
-  };
+// const portfolio = () => {
+//     return (
+//       <div>
+//         <p>Portfolio</p>
+//       </div>
+//     );
+//   };
 
-const contact = () => {
-  return (
-    <div>
-      <p>Contact</p>
-    </div>
-  );
-};
-const resume = () => {
-    return (
-      <div>
-        <p>My Resume</p>
-      </div>
-    );
-  };
+// const contact = () => {
+//   return (
+//     <div>
+//       <p>Contact</p>
+//     </div>
+//   );
+// };
+// const resume = () => {
+//     return (
+//       <div>
+//         <p>My Resume</p>
+//       </div>
+//     );
+//   };
 class App extends Component {
   render() {
     return (

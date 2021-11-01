@@ -1,7 +1,7 @@
 import React from 'react';
 import gitlogo from "./Assets/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png";
 import linkedinlogo from "./Assets/LinkedIn-Logos/LI-Logo.png";
-import stacklogo from "./Assets/Stackoverflowlogo.png"
+// import stacklogo from "./Assets/Stackoverflowlogo.png"
 function Footer(){
     return(
 <p>
